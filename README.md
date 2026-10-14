@@ -1,6 +1,6 @@
 # OM-Xmass
 
-Festive save-the-date page for Traditionel OM-Xass lunch.
+Festive save-the-date page for Traditional OM-Xass lunch.
 
 Friday 27 November 2026, 12:30–16:30 Europe/Copenhagen (11:30–15:30 UTC).
 
