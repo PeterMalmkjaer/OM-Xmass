@@ -1,13 +1,13 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//OM-Xass//Lunch//EN
+PRODID:-//OM-Xmass//Lunch//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:om-xass-lunch-20261127T113000Z@calendar.local
 DTSTAMP:20261014T000000Z
 DTSTART:20261127T113000Z
 DTEND:20261127T153000Z
-SUMMARY:Traditional OM-Xass lunch. *Program and registration to be announce
- d later*
+SUMMARY:Traditional OM-Xmass lunch. *Program and registration to be announc
+ ed later*
 END:VEVENT
 END:VCALENDAR
